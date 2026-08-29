@@ -6,7 +6,7 @@
 
 请前往 [Releases](https://github.com/ChiWai-00/TodoPane-Releases/releases/latest) 下载最新版：
 
-- `TodoPane-v1.0-win-x64-setup.exe`：适用于 Windows 10/11 x64 的自包含安装程序，无需另行安装 .NET。
+- `TodoPane-v1.0.2-win-x64-setup.exe`：适用于 Windows 10/11 x64 的自包含安装程序，无需另行安装 .NET。
 - 同名 `.sha256` 文件：用于核对安装包完整性。
 
 Microsoft Store 版本通过 Microsoft Store 单独分发、签名和更新。
