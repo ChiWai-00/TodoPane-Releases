@@ -4,9 +4,9 @@
 
 ## 下载
 
-前往 [Releases](https://github.com/ChiWai-00/TodoPane-Releases/releases/latest) 下载 TodoPane-v1.1.1-win-x64-setup.exe。适用系统为 Windows 10/11 x64，安装包已包含所需运行组件。同名 .sha256 文件可用于核对完整性。Microsoft Store 版由商店单独分发和更新。
+前往 [Releases](https://github.com/ChiWai-00/TodoPane-Releases/releases/latest) 下载 TodoPane-v1.1.2-win-x64-setup.exe。适用系统为 Windows 10/11 x64，安装包已包含所需运行组件。同名 .sha256 文件可用于核对完整性。Microsoft Store 版由商店单独分发和更新。
 
-v1.1.1 的主要功能、数据保留期限和校验值见对应的 [版本说明](https://github.com/ChiWai-00/TodoPane-Releases/releases/tag/v1.1.1)。
+v1.1.2 的主要功能、数据保留期限和校验值见对应的 [版本说明](https://github.com/ChiWai-00/TodoPane-Releases/releases/tag/v1.1.2)。
 
 ## 本地数据
 
